@@ -1,2 +1,3 @@
 centos:centos7
 nginx:1.16.1-alpine
+postgres:11.1
